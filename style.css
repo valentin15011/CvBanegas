@@ -1,0 +1,33 @@
+
+li{
+    color:  rgb(11, 26, 97);
+    background-color: rgb(146, 175, 177);
+}
+
+#encabezadoPrincipal{
+    color:red ;
+
+}
+#encabezadoSecundario{
+    color: rgb(207, 91, 163);
+}
+.holisvioleta{
+    color: rgb(43, 226, 89);
+    background-color: blueviolet;
+    margin: 200px;
+    padding: 100px;
+    border: solid 2px;
+}
+.datospersonalesblue{
+    color: orange;
+
+}
+
+.imagennegra{
+    border: rgb(98, 27, 119) solid 6px;
+    background-color: rgb(183, 163, 202);
+    padding: 20px;
+    border-radius: 40px;
+    width: 200px;
+    height: 200px;
+}
